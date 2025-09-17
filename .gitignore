@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environments (if added later)
+venv/
+.env
+
+# Large data files
+data/
+*.csv
+*.xlsx
+*.parquet
