@@ -30,7 +30,6 @@ Tables included:
 ## File structure
 - `/sql/` — SQL scripts for each analysis (run in MySQL)
 - `/docs/` — full project documentation (docx/pdf)
-- `/outputs/` — screenshots & CSV outputs
 - `README.md` — this file
 
 ## How to run
